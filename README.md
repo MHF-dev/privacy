@@ -6,7 +6,7 @@ GitHub Pages-এ প্রকাশিত, Ummah First Labs-এর অ্যা�
 |---|---|---|
 | মুজাহিদ একাডেমি | `com.ummahfirstlabs.mujahid` | https://mhf-dev.github.io/privacy/mujahid/ |
 | কুরবা (Qurba) | `com.ummahfirstlabs.qurba` | https://mhf-dev.github.io/privacy/qurba/ |
-| মুহাসাবাহ (Muhasabah) | `com.ummahfirstlabs.muhasabah` | https://mhf-dev.github.io/privacy/muhasabah/ |
+| মুহাসাবাহ (Muhasabah) | `com.ummahfirstlabs.Muhasabah` | https://mhf-dev.github.io/privacy/muhasabah/ |
 | আরবি বলি: নবী ﷺ-এর ভাষায় | `com.ummahfirstlabs.arbi` | https://mhf-dev.github.io/privacy/arbi-boli/ |
 | ছোটদের নবীজী ﷺ | `org.chotodernabiji.app` | https://mhf-dev.github.io/privacy/chotoder-nabiji/ |
 | খুদে ইঞ্জিনিয়ার (Little Engineer) | `com.ummahfirstlabs.ltl_engineer` | https://mhf-dev.github.io/privacy/little-engineer/ |
